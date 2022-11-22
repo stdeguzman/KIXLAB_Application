@@ -1,0 +1,19 @@
+.box {
+  background-color: #D3D3D3;
+  padding: 10px 10px 10px 10px;
+  margin: 10px 1000px 10px 10px;
+}
+
+.overall {
+  padding: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px; 
+}
+
+.text_input {
+  /* padding: 10px 10px 10px 10px; */
+  margin: 10px 1000px 10px 10px;  
+}
+
+.between {
+  margin: 10px
+}
